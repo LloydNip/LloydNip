@@ -91,8 +91,8 @@ Welcome to Yabmat Avenue, a multi-purpose server that is mainly made for chattin
 ⚒ Staffs
 <br>
  -  You could be the one! join the server to apply.
-<br>
-────────────  Links  ────────────
 <br><br>
+────────────  Links  ────────────
+<br>
 • Invite : <a href="https://discord.gg/8mfUh3bmKq">Click Here</a>
 </p>

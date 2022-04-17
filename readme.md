@@ -27,6 +27,8 @@
 
 - ⚡ Fun fact **One thing on my bucket list is to visit my Girlfriend.**
 
+<br>
+
 <!-- Third Header -->
 <h3 align="center">
 	Social Media's :
@@ -65,8 +67,20 @@
 	Partnered Server(s) (Filipino Servers)
 </h3>
 <h2 align="center">
-	Yabmat Avenue
+	🌲 Yabmat Avenue 🌲
 </h2>
 <p align="center">
-	
+────────────   About Us!   ────────────
+Welcome to Yabmat Avenue, a multi-purpose server that is mainly made for chatting! we have lot of things that you are missing out, and we're sure that you'll love it here! server language is Tagalog/English (PH/US). This server is family-friendly and a non-toxicity community, our server is pretty quiet so expect a chill environment! everything here is completely organized and clean! 
+────────────   Looking For:   ────────────
+✨ Active Members 
+ -  come and join a slowly growing 1.4k community! make friends in no time.
+🤎 Server Boosters
+ -  we highly appreciate the support for boosting! (currently working on perks)
+🤝 Partnerships
+ -  server owner? come partner with us! our requirements should fit for a growing community.
+⚒ Staffs
+ -  you could be the one! join the server to apply.
+────────────   Links:   ────────────
+• Invite: https://discord.gg/8mfUh3bmKq
 </p>

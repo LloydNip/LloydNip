@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/developerlloyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developerlloyd" height="30" width="40" /></a>
-<a href="https://fb.com/lloyd nip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lloyd nip" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/developerlloyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="developerlloyd" height="30" width="40" /></a>
+<a href="https://fb.com/lloydefreim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lloydefreim" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucethtd5rs-pmtswdgyul2oq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucethtd5rs-pmtswdgyul2oq" height="30" width="40" /></a>
 <a href="https://discord.gg/EhmpQDJfv7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EhmpQDJfv7" height="30" width="40" /></a>
 </p>
 

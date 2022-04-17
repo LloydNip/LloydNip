@@ -17,16 +17,16 @@
 
 - 🤝 I’m looking for help with **Mictosoft and Discord**
 
-- 👨‍💻 All of my projects are available at [https://dev--websites.devlloyd.autocode.gg/websites.html](https://dev--websites.devlloyd.autocode.gg/websites.html)
+- 👨‍💻 All of my projects are available at [This Website](https://dev--websites.devlloyd.autocode.gg/websites.html](https://dev--websites.devlloyd.autocode.gg/websites.html)
 
 - 💬 Ask me about **Bot Development, Web Development,Graphic Designing**
 
-- 📫 How to reach me **DM me on Discord `Lloyd#6161` or lloyddeveloper13@gmail.com**
+- 📫 How to reach me **DM me on Discord** `Lloyd#6161` or [Email Me](lloyddeveloper13@gmail.com)
 
 - ⚡ Fun fact **One thing on my bucket list is to visit my Girlfriend.**
 
 <!-- Third Header -->
-<h3 align="left">
+<h3 align="center">
 	Social Media's :
 </h3>
 <p align="center">
@@ -52,4 +52,13 @@
 	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 	<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+</p>
+
+<!-- Fifth Header -->
+<h3 align="center">
+	Partnered Server(s) (Filipino Servers)
+</h3>
+<p align="center">
+	<img src="https://media.discordapp.net/attachments/923241009234735145/961257737960976404/unknown.png?width=1440&height=533">
+	<p>AA</p>
 </p>

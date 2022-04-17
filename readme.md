@@ -78,19 +78,19 @@ Welcome to Yabmat Avenue, a multi-purpose server that is mainly made for chattin
 <br>
 ✨ Active Members 
 <br>
- -  Come and join a slowly growing 1.4k community! make friends in no time.
+<strong>Come and join a slowly growing 1.4k community! make friends in no time.</strong>
 <br><br>
 🤎 Server Boosters
 <br>
- -  We highly appreciate the support for boosting! (currently working on perks)
+<strong>We highly appreciate the support for boosting! (currently working on perks)</strong>
 <br><br>
 🤝 Partnerships
 <br>
- -  Server owner? come partner with us! our requirements should fit for a growing community.
+<strong>Server owner? come partner with us! our requirements should fit for a growing community.</strong>
 <br><br>
 ⚒ Staffs
 <br>
- -  You could be the one! join the server to apply.
+<strong>You could be the one! join the server to apply.<strong>
 <br><br>
 ────────────  Links  ────────────
 <br>

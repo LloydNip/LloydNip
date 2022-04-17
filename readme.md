@@ -70,9 +70,12 @@
 	🌲 Yabmat Avenue 🌲
 </h2>
 <p align="center">
-────────────   About Us!   ────────────
+────────────  About Us  ──────────── 
+<br>
 Welcome to Yabmat Avenue, a multi-purpose server that is mainly made for chatting! we have lot of things that you are missing out, and we're sure that you'll love it here! server language is Tagalog/English (PH/US). This server is family-friendly and a non-toxicity community, our server is pretty quiet so expect a chill environment! everything here is completely organized and clean! 
-────────────   Looking For:   ────────────
+<br> 
+────────────  Looking For  ────────────
+<br> 
 ✨ Active Members 
  -  come and join a slowly growing 1.4k community! make friends in no time.
 🤎 Server Boosters

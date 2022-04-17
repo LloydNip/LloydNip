@@ -2,13 +2,11 @@
 <h1 align="center">
 	Hi 👋, I'm Developer Lloyd
 </h1>
+<p align="center">
+	A proffesional Discord Developer and also a Website Designer
+</p>
 
 <br>
-
-<!-- Second Header -->
-<h3 align="center">
-	A proffesional Discord Developer and also a Website Designer
-</h3>
 
 <!-- User Description -->
 - 🔭 I’m currently working on **3 Filipino Discord Servers (Yabmat Avenue, The Hype House, Hestia)**
@@ -29,7 +27,7 @@
 
 <br>
 
-<!-- Third Header -->
+<!-- Second Header -->
 <h3 align="center">
 	Social Media's :
 </h3>
@@ -42,7 +40,7 @@
 
 <br>
 
-<!-- Fourth Header -->
+<!-- Third Header -->
 <h3 align="center">
 	Coding Languages and Tools :
 </h3>
@@ -62,9 +60,9 @@
 
 <br>
 
-<!-- Fifth Header -->
+<!-- Fourth Header -->
 <h3 align="center">
-	Partnered Server(s) (Filipino Servers)
+	My Main Server
 </h3>
 <h2 align="center">
 	🌲 Yabmat Avenue 🌲

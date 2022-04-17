@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Bot Development, Web Development,Graphic Designing**
 
-- 📫 How to reach me **DM me on Discord** `Lloyd#6161` or <a href="lloyddeveloper13@gmail.com">Email Me</a>
+- 📫 How to reach me **DM me on Discord** `Lloyd#6161` or lloyddeveloper13@gmail.com
 
 - ⚡ Fun fact **One thing on my bucket list is to visit my Girlfriend.**
 

@@ -17,11 +17,11 @@
 
 - 🤝 I’m looking for help with **Mictosoft and Discord**
 
-- 👨‍💻 All of my projects are available at [This Website](https://dev--websites.devlloyd.autocode.gg/websites.html](https://dev--websites.devlloyd.autocode.gg/websites.html)
+- 👨‍💻 All of my projects are available at <a href="https://dev--websites.devlloyd.autocode.gg/websites.html">This Website</a>
 
 - 💬 Ask me about **Bot Development, Web Development,Graphic Designing**
 
-- 📫 How to reach me **DM me on Discord** `Lloyd#6161` or [Email Me](lloyddeveloper13@gmail.com)
+- 📫 How to reach me **DM me on Discord** `Lloyd#6161` or <a href="lloyddeveloper13@gmail.com">Email Me</a>
 
 - ⚡ Fun fact **One thing on my bucket list is to visit my Girlfriend.**
 
@@ -59,6 +59,6 @@
 	Partnered Server(s) (Filipino Servers)
 </h3>
 <p align="center">
-	<img src="https://media.discordapp.net/attachments/923241009234735145/961257737960976404/unknown.png?width=1440&height=533">
-	<p>AA</p>
+	<h2>Yabmat Avenue</h2>
+	<p></p>
 </p>

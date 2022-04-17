@@ -58,7 +58,9 @@
 <h3 align="center">
 	Partnered Server(s) (Filipino Servers)
 </h3>
+<h2 align="center">
+	Yabmat Avenue
+</h2>
 <p align="center">
-	<h2>Yabmat Avenue</h2>
-	<p></p>
+	
 </p>
